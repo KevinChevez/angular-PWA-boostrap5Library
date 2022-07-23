@@ -1,0 +1,2 @@
+# DAWM - Paralelo: 1 - Kevin Chévez Coronel
+Este repositorio **"angular-PWA-boostrap5Library"** de diseño web PWA (Progressive Web Application) que usa el framework Angular y bootstrap 5 mas un ejemplo de librería. Este proyecto será usado para ser desplegado como app en heroku.
